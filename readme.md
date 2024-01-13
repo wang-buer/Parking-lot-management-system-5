@@ -31,33 +31,28 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/16/K27fJckvsWxElGB.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311142214982.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-用户管理](https://s2.loli.net/2023/10/16/LRQ7m5iY3hGNdlp.jpg)
+![管理员-车辆类型管理](https://www.codeshop.fun/Typora-Images/202311142214296.jpg)
 
-![管理员-车辆类型管理](https://s2.loli.net/2023/10/16/1xQYHoyIgchqbpt.jpg)
+![管理员-车位管理](https://www.codeshop.fun/Typora-Images/202311142214315.jpg)
 
-![管理员-停车区域管理](https://s2.loli.net/2023/10/16/tGsJ7KjWdOxviz1.jpg)
+![管理员-离场计费](https://www.codeshop.fun/Typora-Images/202311142214306.jpg)
 
-![管理员-车位管理](https://s2.loli.net/2023/10/16/FVjNHx2y9kOwWzM.jpg)
+![管理员-停车管理](https://www.codeshop.fun/Typora-Images/202311142214330.jpg)
 
-![管理员-离场计费](https://s2.loli.net/2023/10/16/642Jsn9RWwPjQ5A.jpg)
+![管理员-停车区域管理](https://www.codeshop.fun/Typora-Images/202311142214350.jpg)
 
-![管理员-停车管理](https://s2.loli.net/2023/10/16/6h2nDJUtEM34XR5.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202311142214341.jpg)
 
 ### 4.3 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/16/7EK8yCAtRrMz4WS.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311142214745.jpg)
 
-### 获取方式&视频演示
+## 获取方式
+下-方-点-击-关-注，回-复：**停车场**，查-看-导-入-教-程-视-频-和-sql-脚-本-等
 
-下方扫一下，回复关键词：停车场
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
-
-
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
